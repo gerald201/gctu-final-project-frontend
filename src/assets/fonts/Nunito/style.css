@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Nunito';
+    font-weight: 200;
+    src: url(./webfonts/Nunito-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-weight: 300;
+    src: url(./webfonts/Nunito-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-weight: 400;
+    src: url(./webfonts/Nunito-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-weight: 600;
+    src: url(./webfonts/Nunito-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-weight: 700;
+    src: url(./webfonts/Nunito-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-weight: 800;
+    src: url(./webfonts/Nunito-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-weight: 900;
+    src: url(./webfonts/Nunito-Black.ttf);
+}
