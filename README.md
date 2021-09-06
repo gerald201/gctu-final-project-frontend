@@ -1,4 +1,4 @@
-# gctu-final-project
+# gctu-final-project-frontend
 
 ## Project setup
 ```

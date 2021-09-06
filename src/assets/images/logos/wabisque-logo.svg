@@ -1,0 +1,33 @@
+<svg
+  class="wabisque-logo"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 512 254.3"
+>
+  <g id="folds">
+    <polygon
+      class="fold-1"
+      fill="#000"
+      points="149.67 31 117.67 95 10.34 95 42.34 31 149.67 31"
+    />
+    <polygon
+      class="fold-2"
+      fill="#f15a24"
+      points="245.67 223 138.34 223 42.34 31 149.67 31 245.67 223"
+    />
+    <polygon
+      class="fold-3"
+      fill="#000"
+      points="341.67 31 245.67 223 138.34 223 234.34 31 341.67 31"
+    />
+    <polygon
+      class="fold-4"
+      fill="#f15a24"
+      points="437.67 223 330.34 223 234.34 31 341.67 31 437.67 223"
+    />
+    <polygon
+      class="fold-5"
+      fill="#000"
+      points="501.67 95 437.67 223 330.34 223 394.34 95 501.67 95"
+    />
+  </g>
+</svg>

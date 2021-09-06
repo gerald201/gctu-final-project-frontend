@@ -1,0 +1,29 @@
+* {
+  --black: rgb(26,26,28);
+  --blue: rgb(49,133,252);
+  --cyan: rgb(91,192,235);
+  --danger: rgb(255,27,28);
+  --dark: rgb(45,45,49);
+  --darker: rgb(36,36,38);
+  --gray-level1: rgb(161,161,179);
+  --gray-level2: rgb(144,144,163);
+  --gray-level3: rgb(127,127,145);
+  --gray-level4: rgb(108,108,126);
+  --gray-level5: rgb(84,84,100);
+  --green: rgb(9,232,94);
+  --info: rgb(49,133,252);
+  --light: rgb(223,223,237);
+  --lighter: rgb(235,235,243);
+  --magenta: rgb(255,0,127);
+  --orange: rgb(255,127,17);
+  --primary: rgb(41,169,255);
+  --purple: rgb(154,72,208);
+  --red: rgb(255,27,28);
+  --secondary: rgb(255,28,89);
+  --success: rgb(9,232,94);
+  --tertiary: rgb(42,248,142);
+  --turqoise: rgb(0,217,192);
+  --warning: rgb(253,231,76);
+  --white: rgb(248,248,255);
+  --yellow: rgb(253,231,76);
+}

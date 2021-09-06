@@ -1,17 +1,13 @@
 <template>
-  <div id="gn-home-view">
-      My name is Gerald Nettey!!!
-  </div>
+  <div id="w-home-view"></div>
 </template>
 
 <script>
-export default {
-    name: 'GnHomeView'
-}
+export default {name: 'WHomeView'}
 </script>
 
-<style lang="scss" scoped>
-#gn-home-view {
-    width: 100%;
+<style>
+#w-home-view {
+  width: 100%;
 }
 </style>

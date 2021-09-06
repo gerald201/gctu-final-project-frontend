@@ -1,15 +1,15 @@
 {
-    "compilerOptions": {
-        "baseUrl": ".",
-        "paths": {
-            "@/*": ["./src/*"]
-        }
-    },
-    "include": [
-        "./**/*.css",
-        "./**/*.js",
-        "./**/*.json",
-        "./**/*.scss",
-        "./**/*.vue"
-    ]
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["./src/*"]
+		}
+	},
+	"include": [
+		"./**/*.css",
+		"./**/*.js",
+		"./**/*.json",
+		"./**/*.scss",
+		"./**/*.vue"
+	]
 }
